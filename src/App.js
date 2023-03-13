@@ -26,7 +26,11 @@ export default function App() {
             Open-sourced on GitHub
             <br />
           </a>{" "}
-          <a href="https://" target="_blank" rel="noopener noreferrer">
+          <a
+            href="https://app.netlify.com/sites/jolly-macaron-c4fd70/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             Hosted on Netlify
           </a>
         </footer>
